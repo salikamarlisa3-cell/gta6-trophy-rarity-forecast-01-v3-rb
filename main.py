@@ -183,7 +183,9 @@ def project_players(states, target):
         aa, bb, sd = ols(ts, ys)
         if bb >= 0:
             continue
-        score = sd + 1e-9 * cap ** 0  # prefer the tightest fit
+        # tightest fit wins; near-ties go to the smaller asymptote,
+        # the more conservative projection for a young page
+        score = sd + 1e-6 * math.log(cap)
         if best is None or score < best[0]:
             best = (score, cap - math.exp(aa + bb * tt))
     p_sat = best[1] if best else p_log
