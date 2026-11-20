@@ -1,8 +1,8 @@
 # GTA VI Trophy Rarity Forecaster — inverse-fit calibrated refresh + progression
 
-[![Bounty](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![Rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/salikamarlisa3-cell/gta6-trophy-rarity-forecast-01-v3-rb/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard)
-[![Reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/salikamarlisa3-cell/gta6-trophy-rarity-forecast-01-v3-rb/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/salikamarlisa3-cell/gta6-trophy-rarity-forecast-01-v3-rb/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
 
 Forecasts five earn-rate quantiles (5/25/50/75/95%) for every trophy of a
 game at a future checkpoint, from the recorded history of its Exophase
